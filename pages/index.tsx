@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         <h1 className="font-black text-3xl md:text-5xl text-center leading-tight bg-clip-text text-transparent bg-gradient-to-tr from-orange-200 via-orange-400 to-gray-50">
           Web VPN Converter.
         </h1>
-        <div className="absolute -rotate-12 -top-10 right-0 md:right-10 text-4xl font-nanum">for BIT</div>
+        <div className="absolute -rotate-12 -top-10 right-0 md:right-10 text-4xl font-nanum">for XMU</div>
       </div>
 
       <p className="text-center leading-2 py-4 lg:leading-6 text-gray-700 dark:text-gray-400">
