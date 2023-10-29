@@ -1,6 +1,6 @@
 const Footer = () => (
   <footer className="bg-zinc-200/30 dark:bg-zinc-500/10 p-4 text-center dark:text-gray-400 text-sm">
-    Created with love at BIT
+    Created with love at XMU
     <br />
     <a
       href="https://spencerwoo.com"

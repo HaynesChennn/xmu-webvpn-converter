@@ -1,6 +1,6 @@
 # Web VPN Converter
 
-_Connect to your local networks in BIT from anywhere in the world._
+_Connect to your local networks in XMU from anywhere in the world._
 
 ## Demo
 
