@@ -3,12 +3,12 @@ const Footer = () => (
     Created with love at XMU
     <br />
     <a
-      href="https://spencerwoo.com"
+      href="https://github.com/IanChen0713"
       target="_blank"
       rel="noopener noreferrer"
       className="underline opacity-80 hover:opacity-100 transition-all duration-50"
     >
-      Spencer Woo
+      HaynesChen
     </a>{' '}
     @ 2020 - {new Date().getFullYear()}
   </footer>
